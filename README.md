@@ -24,6 +24,12 @@ The VC Map development team will actively monitor and respond to all issues.
 This is a list of plugins created by community members. Anyone can submit a merge request to add links to their
 plugins here.
 
+- [Timeslider](https://github.com/MaxHaverkamp/VCSTimeslider)
+
+     Basic plugin to show all existing buildings at a chosen year. Provides a slider with autoplay functionality
+     to change the year every second. Needed for this plugin to work is a layer with building and demolition
+     dates as attributes.
+
 - [Plugin A](Link)
 
      A brief description of the plugin, including optional links to its repository, details about its functionality,
